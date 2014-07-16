@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="88" language="0" nGroups="6">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10400" name="glyph00004"/><!-- DESERET CAPITAL LETTER LONG I -->
+      <map code="0x10401" name="glyph00005"/><!-- DESERET CAPITAL LETTER LONG E -->
+      <map code="0x10402" name="glyph00006"/><!-- DESERET CAPITAL LETTER LONG A -->
+      <map code="0x10403" name="glyph00007"/><!-- DESERET CAPITAL LETTER LONG AH -->
+      <map code="0x10404" name="glyph00008"/><!-- DESERET CAPITAL LETTER LONG O -->
+      <map code="0x10405" name="glyph00009"/><!-- DESERET CAPITAL LETTER LONG OO -->
+      <map code="0x10406" name="glyph00010"/><!-- DESERET CAPITAL LETTER SHORT I -->
+      <map code="0x10407" name="glyph00011"/><!-- DESERET CAPITAL LETTER SHORT E -->
+      <map code="0x10408" name="glyph00012"/><!-- DESERET CAPITAL LETTER SHORT A -->
+      <map code="0x10409" name="glyph00013"/><!-- DESERET CAPITAL LETTER SHORT AH -->
+      <map code="0x1040a" name="glyph00014"/><!-- DESERET CAPITAL LETTER SHORT O -->
+      <map code="0x1040b" name="glyph00015"/><!-- DESERET CAPITAL LETTER SHORT OO -->
+      <map code="0x1040c" name="glyph00016"/><!-- DESERET CAPITAL LETTER AY -->
+      <map code="0x1040d" name="glyph00017"/><!-- DESERET CAPITAL LETTER OW -->
+      <map code="0x1040e" name="glyph00018"/><!-- DESERET CAPITAL LETTER WU -->
+      <map code="0x1040f" name="glyph00019"/><!-- DESERET CAPITAL LETTER YEE -->
+      <map code="0x10410" name="glyph00020"/><!-- DESERET CAPITAL LETTER H -->
+      <map code="0x10411" name="glyph00021"/><!-- DESERET CAPITAL LETTER PEE -->
+      <map code="0x10412" name="glyph00022"/><!-- DESERET CAPITAL LETTER BEE -->
+      <map code="0x10413" name="glyph00023"/><!-- DESERET CAPITAL LETTER TEE -->
+      <map code="0x10414" name="glyph00024"/><!-- DESERET CAPITAL LETTER DEE -->
+      <map code="0x10415" name="glyph00025"/><!-- DESERET CAPITAL LETTER CHEE -->
+      <map code="0x10416" name="glyph00026"/><!-- DESERET CAPITAL LETTER JEE -->
+      <map code="0x10417" name="glyph00027"/><!-- DESERET CAPITAL LETTER KAY -->
+      <map code="0x10418" name="glyph00028"/><!-- DESERET CAPITAL LETTER GAY -->
+      <map code="0x10419" name="glyph00029"/><!-- DESERET CAPITAL LETTER EF -->
+      <map code="0x1041a" name="glyph00030"/><!-- DESERET CAPITAL LETTER VEE -->
+      <map code="0x1041b" name="glyph00031"/><!-- DESERET CAPITAL LETTER ETH -->
+      <map code="0x1041c" name="glyph00032"/><!-- DESERET CAPITAL LETTER THEE -->
+      <map code="0x1041d" name="glyph00033"/><!-- DESERET CAPITAL LETTER ES -->
+      <map code="0x1041e" name="glyph00034"/><!-- DESERET CAPITAL LETTER ZEE -->
+      <map code="0x1041f" name="glyph00035"/><!-- DESERET CAPITAL LETTER ESH -->
+      <map code="0x10420" name="glyph00036"/><!-- DESERET CAPITAL LETTER ZHEE -->
+      <map code="0x10421" name="glyph00037"/><!-- DESERET CAPITAL LETTER ER -->
+      <map code="0x10422" name="glyph00038"/><!-- DESERET CAPITAL LETTER EL -->
+      <map code="0x10423" name="glyph00039"/><!-- DESERET CAPITAL LETTER EM -->
+      <map code="0x10424" name="glyph00040"/><!-- DESERET CAPITAL LETTER EN -->
+      <map code="0x10425" name="glyph00041"/><!-- DESERET CAPITAL LETTER ENG -->
+      <map code="0x10426" name="glyph00042"/><!-- DESERET CAPITAL LETTER OI -->
+      <map code="0x10427" name="glyph00043"/><!-- DESERET CAPITAL LETTER EW -->
+      <map code="0x10428" name="glyph00044"/><!-- DESERET SMALL LETTER LONG I -->
+      <map code="0x10429" name="glyph00045"/><!-- DESERET SMALL LETTER LONG E -->
+      <map code="0x1042a" name="glyph00046"/><!-- DESERET SMALL LETTER LONG A -->
+      <map code="0x1042b" name="glyph00047"/><!-- DESERET SMALL LETTER LONG AH -->
+      <map code="0x1042c" name="glyph00048"/><!-- DESERET SMALL LETTER LONG O -->
+      <map code="0x1042d" name="glyph00049"/><!-- DESERET SMALL LETTER LONG OO -->
+      <map code="0x1042e" name="glyph00050"/><!-- DESERET SMALL LETTER SHORT I -->
+      <map code="0x1042f" name="glyph00051"/><!-- DESERET SMALL LETTER SHORT E -->
+      <map code="0x10430" name="glyph00052"/><!-- DESERET SMALL LETTER SHORT A -->
+      <map code="0x10431" name="glyph00053"/><!-- DESERET SMALL LETTER SHORT AH -->
+      <map code="0x10432" name="glyph00054"/><!-- DESERET SMALL LETTER SHORT O -->
+      <map code="0x10433" name="glyph00055"/><!-- DESERET SMALL LETTER SHORT OO -->
+      <map code="0x10434" name="glyph00056"/><!-- DESERET SMALL LETTER AY -->
+      <map code="0x10435" name="glyph00057"/><!-- DESERET SMALL LETTER OW -->
+      <map code="0x10436" name="glyph00058"/><!-- DESERET SMALL LETTER WU -->
+      <map code="0x10437" name="glyph00059"/><!-- DESERET SMALL LETTER YEE -->
+      <map code="0x10438" name="glyph00060"/><!-- DESERET SMALL LETTER H -->
+      <map code="0x10439" name="glyph00061"/><!-- DESERET SMALL LETTER PEE -->
+      <map code="0x1043a" name="glyph00062"/><!-- DESERET SMALL LETTER BEE -->
+      <map code="0x1043b" name="glyph00063"/><!-- DESERET SMALL LETTER TEE -->
+      <map code="0x1043c" name="glyph00064"/><!-- DESERET SMALL LETTER DEE -->
+      <map code="0x1043d" name="glyph00065"/><!-- DESERET SMALL LETTER CHEE -->
+      <map code="0x1043e" name="glyph00066"/><!-- DESERET SMALL LETTER JEE -->
+      <map code="0x1043f" name="glyph00067"/><!-- DESERET SMALL LETTER KAY -->
+      <map code="0x10440" name="glyph00068"/><!-- DESERET SMALL LETTER GAY -->
+      <map code="0x10441" name="glyph00069"/><!-- DESERET SMALL LETTER EF -->
+      <map code="0x10442" name="glyph00070"/><!-- DESERET SMALL LETTER VEE -->
+      <map code="0x10443" name="glyph00071"/><!-- DESERET SMALL LETTER ETH -->
+      <map code="0x10444" name="glyph00072"/><!-- DESERET SMALL LETTER THEE -->
+      <map code="0x10445" name="glyph00073"/><!-- DESERET SMALL LETTER ES -->
+      <map code="0x10446" name="glyph00074"/><!-- DESERET SMALL LETTER ZEE -->
+      <map code="0x10447" name="glyph00075"/><!-- DESERET SMALL LETTER ESH -->
+      <map code="0x10448" name="glyph00076"/><!-- DESERET SMALL LETTER ZHEE -->
+      <map code="0x10449" name="glyph00077"/><!-- DESERET SMALL LETTER ER -->
+      <map code="0x1044a" name="glyph00078"/><!-- DESERET SMALL LETTER EL -->
+      <map code="0x1044b" name="glyph00079"/><!-- DESERET SMALL LETTER EM -->
+      <map code="0x1044c" name="glyph00080"/><!-- DESERET SMALL LETTER EN -->
+      <map code="0x1044d" name="glyph00081"/><!-- DESERET SMALL LETTER ENG -->
+      <map code="0x1044e" name="glyph00082"/><!-- DESERET SMALL LETTER OI -->
+      <map code="0x1044f" name="glyph00083"/><!-- DESERET SMALL LETTER EW -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
