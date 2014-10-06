@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Deseret",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 9150,
+  "fonts": [
+    {
+      "name": "Noto Sans Deseret",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansDeseret-Regular.ttf",
+      "postScriptName": "NotoSansDeseret",
+      "fullName": "Noto Sans Deseret",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
